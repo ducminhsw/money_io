@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "351485090829",
+    "firebase_url": "https://moneyio-2d0b8-default-rtdb.firebaseio.com",
+    "project_id": "moneyio-2d0b8",
+    "storage_bucket": "moneyio-2d0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351485090829:android:0fca178e29d59f5abf0944",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351485090829-f4fu37v2v67fmusnesm2bv43c01gtul5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGTRW7DOcfW2_vSP5WTyu9TXsXqeEveI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351485090829-f4fu37v2v67fmusnesm2bv43c01gtul5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351485090829:android:103f7a35fc00db27bf0944",
+        "android_client_info": {
+          "package_name": "com.example.moneyio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351485090829-labgdrm49h9gqm9l23onb75iq2fvdra2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyio",
+            "certificate_hash": "04afc1ecb3719ca43c6b643395f37140fa8bf68b"
+          }
+        },
+        {
+          "client_id": "351485090829-f4fu37v2v67fmusnesm2bv43c01gtul5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGTRW7DOcfW2_vSP5WTyu9TXsXqeEveI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351485090829-f4fu37v2v67fmusnesm2bv43c01gtul5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="selected_item">Select Item</string>
+    <string name="app_name">MoneyIO</string>
+    <string name="title_home">Home</string>
+    <string name="title_chart">Chart</string>
+    <string name="title_me">Personal</string>
+    <string name="Add">Add</string>
+    <string name="Review">Review</string>
+    <string name="Remember">Remember</string>
+    <string name="VND">VND</string>
+    <string name="expense_type">Type</string>
+    <string name="expense_name">Name</string>
+    <string name="expense_date">Date</string>
+    <string name="expense_review">Review</string>
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="btn_edit_expense">Edit Expense</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_b_fragment">B fragment</string>
+    <string name="hello_g_fragment">G fragment</string>
+    <string name="hello_ns_fragment">NS fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
